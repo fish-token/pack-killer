@@ -1,0 +1,2 @@
+execute if data storage crit.pk:store {not_running:0} run function crit.pk:actions
+execute if data storage crit.pk:store {overflow_logs:1} run tellraw @a [{text:"[",color:"#FFAA00",italic:false},{text:"Pack Killer",color:"#FF0000",italic:false},{text:"]",color:"#FFAA00",italic:false},{text:": ",color:"#00FF00",italic:false},{text:"Overflowing logs...",color:"#FFFF00",italic:false}]
