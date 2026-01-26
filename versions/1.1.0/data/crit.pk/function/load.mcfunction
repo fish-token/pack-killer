@@ -1,0 +1,2 @@
+data modify storage crit.pk:store not_running set value 0
+tellraw @a [{text:"[",color:"#FFAA00",italic:false},{text:"Pack Killer",color:"#FF0000",italic:false},{text:"]",color:"#FFAA00",italic:false},{text:": ",color:"#00FF00",italic:false},{text:"Pack Killer activated. ",color:"#FFFF00",italic:false},{text:"Initializing procedure...",color:"#FFFF99",italic:false,bold:true,underlined:true,hover_event:{action:"show_text",value:{text:"Please do not leave this world or perform any other actions.",color:"#00AAFF",italic:false,bold:true}}}]
