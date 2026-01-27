@@ -6,5 +6,19 @@
             "color": "#FFFF00",
             "italic": false
         }
+    },
+    "overlays": {
+        "entries": [
+            {
+                "min_format": 18,
+                "max_format": 48,
+                "directory": "v1.20.2-v1.21.1"
+            },
+            {
+                "min_format": 49,
+                "max_format": 88,
+                "directory": "v1.21.2-1.21.10"
+            }
+        ]
     }
 }

@@ -63,8 +63,8 @@ Pack Killer was made by [The Head of the The CRIT Team](https://github.com/Fish-
 
 ## Changelog
 
-- 1.0.0: Initial release with scoreboard resets, non-player kill, inventory and effect clears, advancement and recipe revokation, distance tp, basic gamerule resets, and xp resets
-- 1.1.0: Fixed some selector issues, prevented entity mounting, as well as adding enderchest and crafting grid clears, forceload removal, and gamemode and gamerule resets
+- 1.0.0 (1.21.11): Initial release with scoreboard resets, non-player kill, inventory and effect clears, advancement and recipe revokation, distance tp, basic gamerule resets, and xp resets
+- 1.1.0 (1.20.2 - 1.21.11): Fixed some selector issues, prevented entity mounting, as well as adding enderchest and crafting grid clears, forceload removal, and gamemode and gamerule resets
 
 ## Last Words
 

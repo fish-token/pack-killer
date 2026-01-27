@@ -11,10 +11,7 @@ gamemode spectator @a
 xp set @a 0 levels
 xp set @a 0 points
 execute as @a run ride @s dismount
-gamerule command_blocks_work false
-gamerule mob_griefing false
-gamerule block_drops false
-gamerule mob_drops false
-gamerule tnt_explodes false
-gamerule allow_entering_nether_using_portals false
-gamerule spectators_generate_chunks false
+gamerule mobGriefing false
+gamerule blockDrops false
+gamerule mobDrops false
+gamerule spectatorsGenerateChunks false
